@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "818046187658",
+    "project_id": "complain-desk1121",
+    "storage_bucket": "complain-desk1121.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818046187658:android:9671a28acdf23983a15573",
+        "android_client_info": {
+          "package_name": "com.example.complaindesk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4lUlcK60ph-I4RMRWSeeOi5aOqeA1E3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
